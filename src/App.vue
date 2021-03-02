@@ -5,6 +5,7 @@
     <about id="about"></about>
     <skill id="skill"></skill>
     <work id="work"></work>
+    <myfooter/>
     <!--<img src="./assets/logo.png">-->
     <router-view/>
   </div>
@@ -16,11 +17,13 @@ import top from "./components/section/top"
 import about from "./components/section/about"
 import skill from "./components/section/skill"
 import work from "./components/section/work"
+import myfooter from "./components/myfooter"
 export default {
   name: "App",
   components: {
     myheader,
-    top, about, skill, work
+    top, about, skill, work,
+    myfooter
   }
 };
 </script>

@@ -5,7 +5,9 @@ import App from "./App";
 import router from "./router";
 import VueSmoothScroll from 'vue2-smooth-scroll';
 
-Vue.use(VueSmoothScroll);
+Vue.use(VueSmoothScroll, {
+  offset: -110
+});
 Vue.config.productionTip = false;
 
 /* eslint-disable no-new */
