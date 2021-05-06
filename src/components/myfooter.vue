@@ -2,7 +2,7 @@
   <footer>
     <div class="footer mb-0 mt-5">
       <div class="version">
-        <p class="mb-0">ver. 1.1</p>
+        <p class="mb-0">ver. 1.2</p>
       </div>
       <p class="copyright mb-0">&copy; 2021 Kmasa </p>
     </div>
