@@ -16,7 +16,7 @@
                             </tr>
                             <tr>
                                 <th>Role</th>
-                                <td class="last-td">Master 1st</td>
+                                <td class="last-td">Master 2st</td>
                             </tr>
                             <tr>
                                 <th>Laboratory</th>
